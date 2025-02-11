@@ -1,4 +1,4 @@
-# React Authentication App
+# WorkIndia Project
 
 ## 📌 Overview
 
